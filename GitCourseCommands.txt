@@ -35,4 +35,10 @@ Every day Git Command
 	git mv Readme.md Readme (Rename file)
 Bracnches
 	git checkout -b scondary (create anew branch called secondary)
+	git checkout  master ( switch to master branch )
+	
+	git stash
+	git stash pop
+	
+	
 	
