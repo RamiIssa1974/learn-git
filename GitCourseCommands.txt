@@ -28,3 +28,8 @@ Every day Git Command
 	git diff (--stage)(--no-rename)
 	git commit -a -m "add new file" (-a all changed files that tracked -m with message)
 	git push -f origin master //f for force
+	
+	git rm test3.txt (thats mean this file will no longer be tracked)
+	git rm --cached test3.txt (without remooving it totally)
+	
+	git mv Readme.md Readme (Rename file)
