@@ -1,9 +1,1 @@
-test1 
-<<<<<<< HEAD
-	ver 1
-	ver 2
-=======
-	ver 1	
-	ver 2
-	ver 3
->>>>>>> 0488e95 (First commit)
+test1 : this is the secondary

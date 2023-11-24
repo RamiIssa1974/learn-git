@@ -33,3 +33,12 @@ Every day Git Command
 	git rm --cached test3.txt (without remooving it totally)
 	
 	git mv Readme.md Readme (Rename file)
+Bracnches
+	git checkout -b scondary (create anew branch called secondary)
+	git checkout  master ( switch to master branch )
+	
+	git stash
+	git stash pop
+	
+	
+	
