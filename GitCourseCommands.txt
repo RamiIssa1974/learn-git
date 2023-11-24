@@ -27,4 +27,4 @@ Every day Git Command
 	git commit -m
 	git diff (--stage)(--no-rename)
 	git commit -a -m "add new file" (-a all changed files that tracked -m with message)
-	
+	git push -f origin master //f for force
