@@ -39,6 +39,7 @@ Bracnches
 	
 	git stash
 	git stash pop
-	
-	
+clone from remote
+	git pull
+	git clone https://github.com/RamiIssa1974/learn-git.git
 	
