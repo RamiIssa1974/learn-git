@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 test3 ver 1
+=======
+test3 ver 1
+Rami Issa 24.11.2023 20:03 PM
+>>>>>>> 0488e95 (First commit)

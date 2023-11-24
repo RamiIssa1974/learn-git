@@ -1,0 +1,30 @@
+Git commands
+
+Configure Git
+	git config --global user.name "Rami Issa"
+	git config --global user.email "Ram_fad@yahoo.com"
+	git config --list
+	git config user.name
+	
+	git --help
+
+	git init : initialize a new git repository
+	git add .
+Code hosting servers
+	Github : RamiIssa1974, gitJan2023
+	GitLab
+	BitBucket
+
+	echo "Rami Issa learning" >> Readme.md
+	git add .
+	git commit -m "first commit"
+	Set New: git remote add origin https://github.com/RamiIssa1974/learn-git.git
+	Update : git remote set-url origin new.git.url/here
+	git push -u origin master
+Every day Git Command
+	clear
+	git status	(git status -s/--short)
+	git commit -m
+	git diff (--stage)(--no-rename)
+	git commit -a -m "add new file" (-a all changed files that tracked -m with message)
+	
